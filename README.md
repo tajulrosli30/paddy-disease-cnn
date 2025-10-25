@@ -27,6 +27,7 @@ The dataset used in this study can be downloaded from Kaggle:
 🔗 https://www.kaggle.com/datasets/arjuntejaswi/plant-village](https://www.kaggle.com/code/abdmental01/paddy-disease-clean-solution
 
 After downloading, place the dataset as:
+```text
 data/
 ├── TRAIN_DATASET/
 └── VALIDATION_DATASET/
