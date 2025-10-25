@@ -7,13 +7,16 @@ This repository contains reproducible code and pretrained models for the paper:
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
+
+```text
 paddy-disease-cnn/
 │
-├── code/ # R scripts for model training & evaluation
-├── models/ # Pretrained models (.h5) via Git LFS
-├── results/ # Evaluation outputs & predictions
-└── README.md # This file
+├── code/                 # R scripts for model training & evaluation
+├── models/               # Pretrained models (.h5) via Git LFS
+├── results/              # Evaluation outputs & predictions
+└── README.md             # This file
+
 
 ---
 
